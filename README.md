@@ -1,1 +1,1 @@
-# quiz-application-java appplication
+# quiz-application
